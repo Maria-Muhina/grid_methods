@@ -1,0 +1,5 @@
+numpy==1.22.4
+plotly==5.3.1
+polygon-mvp @ file:///C:/Users/mvvol/AppData/Local/Programs/Python/Python310/Scripts/polygon_mvp-0.0.1-py3-none-any.whl
+six==1.16.0
+tenacity==8.0.1
